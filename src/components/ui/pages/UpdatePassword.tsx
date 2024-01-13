@@ -56,7 +56,7 @@ const UpdatePassword = () => {
 
           </div>
             <div className="flex flex-col justify-center items-center gap-7 ">
-              <Link to="/hero">
+              <Link to="/home">
                 <Button size={"lg"} variant={"secondary"} className="border-2 rounded-full ">
                   <span className="text-xl m-10">Sign up</span>
                 </Button>

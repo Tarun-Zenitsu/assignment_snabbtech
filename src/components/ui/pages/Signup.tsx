@@ -72,9 +72,11 @@ const Signup = () => {
                 <img src={union} alt="unionSVG" />
                 <span>I’m an Organization in Africa</span>
               </div>
-              <Button size={"lg"} variant={"secondary"} className="border-2 rounded-full ">
-                <span className="text-xl m-10">Join PANDA</span>
-              </Button>
+              <Link to="/home">
+                <Button size={"lg"} variant={"secondary"} className="border-2 rounded-full ">
+                  <span className="text-xl m-10">Join PANDA</span>
+                </Button>
+              </Link>
             </div>
 
             <div className="flex flex-col justify-center items-center">
