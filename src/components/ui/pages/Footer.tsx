@@ -5,13 +5,13 @@ const Footer = () => {
   return (
     <>
     <div>
-        <h1 className="text-center text-[40px] font-semibold my-20">Rejoignez notre communauté et aidez-nous à construire la première plateforme de networking en ligne à destination du marché africain!</h1>
+        <h1 className="text-center text-[40px] font-semibold my-24 mx-24">Rejoignez notre communauté et aidez-nous à construire la première plateforme de networking en ligne à destination du marché africain!</h1>
         <div className="flex justify-center items-center gap-7 my-36">
             <button className=" p-3 rounded-3xl w-52 h-14 border border-gray-900">Créer un compte</button>
             <button className=" p-3 rounded-3xl w-52 h-14 border border-gray-900">Se connecter</button>
         </div>
     </div>
-        <div className="mb-0 px-3">
+        <div className="pl-7">
             <div className="flex gap-8 justify-between">
                 <div>
                     <h1 className="text-[20px] font-semibold my-3">Page d'accueil</h1>
