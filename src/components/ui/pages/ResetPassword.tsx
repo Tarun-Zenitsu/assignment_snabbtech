@@ -1,8 +1,6 @@
 import union from "@/assets/Union.svg";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Checkbox } from "@/components/ui/checkbox";
 import { Link } from "react-router-dom";
 import imageSrc from "@/assets/group-afro-americans-working-together (1).png";
 import { useState } from "react";
